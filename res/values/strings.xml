@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bmob_Sample_TestUpload</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="tips">提示:此案例中的文件路径均为测试路径，开发者在运行前请自行替换！</string>
+</resources>
